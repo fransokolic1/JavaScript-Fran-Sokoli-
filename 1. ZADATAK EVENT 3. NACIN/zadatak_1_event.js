@@ -1,0 +1,1 @@
+alert("SLIKA JE OČITANA !");
